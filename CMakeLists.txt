@@ -6,8 +6,14 @@ set(CMAKE_CXX_STANDARD 11)
 add_executable(untitled1 main.cpp
         ReadingMethods.cpp
         ReadingMethods.h
-        SystemMetrics.cpp
-        SystemMetrics.h
+        StaticData.cpp
+        StaticData.h
+        RAMClass.cpp
+        RAMClass.h
+        CPUClass.cpp
+        CPUClass.h
+        DiskSpaceClass.cpp
+        DiskSpaceClass.h
 )
 
 # Dodaj bibliotekę PDH
