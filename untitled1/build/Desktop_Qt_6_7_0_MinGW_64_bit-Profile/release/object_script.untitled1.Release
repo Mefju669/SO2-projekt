@@ -1,0 +1,10 @@
+release/CPUClass.o
+release/DiskSpaceClass.o
+release/MonitorWorker.o
+release/RAMClass.o
+release/ReadingMethods.o
+release/StaticData.o
+release/main.o
+release/mainwindow.o
+release/moc_MonitorWorker.o
+release/moc_mainwindow.o
