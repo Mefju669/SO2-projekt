@@ -1,6 +1,6 @@
 # System Monitor Application
 
-![System Monitor Image](.png)
+![System Monitor Image](gui.png)
 
 ## Overview
 
